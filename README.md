@@ -28,7 +28,7 @@ ds_sakshi/
 ├── ds_report.pdf             # Final summarized insights and explanations
 └── README.md                 # Project documentation
 ________________________________________
-🎯 Assignment Overview
+ Assignment Overview
 This project analyzes the relationship between trader behavior on the Hyperliquid trading platform and Bitcoin market sentiment using the Fear & Greed Index. The goal is to identify how market psychology influences trading volume, profitability, risk behavior, and trade direction, and to extract insights that could support smarter trading strategies.
 ________________________________________
  Datasets Used
